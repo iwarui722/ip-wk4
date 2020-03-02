@@ -184,3 +184,63 @@ h4 {
     width: inherit;
     background-color: rgba(0, 0, 0, 0.7);
 }
+.overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 100%;
+}
+
+#push {
+    padding-top: 10%;
+}
+
+.landing-text {
+    margin-top: 10%;
+}
+
+.landing-text h1, h2 {
+    font-family: 'Love Ya Like A Sister', cursive;
+}
+
+.landing-text h1 {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 60px;
+}
+
+
+a {
+    color: white;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+figure img {
+    height: 260px;
+    width: 260px;
+}
+
+.karibu-txt {
+    margin-top: 160px;
+}
+
+.txt {
+    font-family: system-ui, cursive;
+    color: black;
+    font-size: 23px;
+}
+
+.txt-big {
+    font-size: 50px;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.karibu-img {
+    margin-top: 10px;
+    margin-left: 80px;
+    margin-bottom: 130px;
+    height: 400px;
+    width: 400px;
+}
+
+.welcome {
+    padding-top: 30px;
+}
