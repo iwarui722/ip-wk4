@@ -313,3 +313,20 @@ figure img {
     .view {
         height: 650px;
     }
+    .piz-pap {
+        font-size: 50px;
+    }
+
+    ul > .nav-items {
+        display: inline;
+        margin-right: 20px;
+        margin-left: 12px;
+    }
+}
+
+@media (max-width: 991px) {
+    .navbar:not(.top-nav-collapse) {
+        background: green !important;
+    }
+
+}
