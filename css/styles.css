@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    overflow-x: hidden;
+    color: #ffffff;
+}
+
+#spantext {
+    color: green;
+}
+
+.nav {
+    float: center;
+}
+
+.exc {
+    color: rgb(7, 7, 4);
+}
+
+#piz-pap {
+    margin-left: 560px;
+    align-content: center;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 35px;
+    font-weight: normal;
+    color: green;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.h-buttons {
+    margin-top: 90px;
+    margin-bottom: 100px;
+}
+
+.h-buttons button {
+    border-radius: 40px;
+    color: black;
+}
+
+.menu-btn {
+    border-radius: 20px;
+    margin-top: 20px;
+    color: #000;
+}
